@@ -1,0 +1,29 @@
+#myHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 40px;
+    text-align: center;
+  } 
+
+  #title{
+    text-align: center;
+    color:#E0479E;
+    background-color:#553E4E;
+    height:100px;
+  }
+
+  #toportion{
+    height: 250px;
+    outline:solid;
+    outline-color: greenyellow;
+    
+  }
+
+  .promos{
+    height:500px;
+    width:500px;
+    outline:solid;
+    outline-color: #E0479E;
+    float:left;
+    padding-left: 20px;
+  }
